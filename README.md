@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashansa Shree</h1>
 <h3 align="center">I am Data Analytics Enthusiast.</h3>
-<img align="right" width=400 alt="coding" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"
+<img align="right" width=400 alt="coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
 
 - 🌱 I’m currently learning **SQL,MS Excel, HTML and CSS**
 
